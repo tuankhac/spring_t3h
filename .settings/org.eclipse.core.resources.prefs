@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/neo/scan/config/WebSecurityConfig.java=UTF-8
+encoding//src/main/resources/messages_en.properties=UTF-8
+encoding//src/main/resources/messages_vi.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/basefragments/footer.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/basefragments/slider.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/page/blog.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/index.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/role/index.jsp=UTF-8
+encoding/<project>=UTF-8
